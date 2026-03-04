@@ -1,10 +1,14 @@
 #! /usr/bin/env python3
 """
-# Program: Process survey results to build list of mentions correlated to comments.
-#    Name: Andrew Dixon            File: processSpreadsheet .py
-#    Date: 3 Mar 2026
-#   Notes: Excel file has specific format and column order. See README for guidance.
-#
+  Program: Process survey results to build list of mentions correlated to comments.
+     Name: Andrew Dixon            File: processSpreadsheet .py
+     Date: 3 Mar 2026
+    Notes: Excel file has specific format and column order. See README for guidance.
+
+  Copyright (c) 2026 Andrew Dixon
+
+  Licensed under the GNU Lesser General Public License v2.1.
+  See the LICENSE file at the project root for details.
 #........1.........2.........3.........4.........5.........6.........7.........8.........9.........0.........1.........2.........3..
 """
 

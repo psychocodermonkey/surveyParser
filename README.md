@@ -168,3 +168,10 @@ No other changes are required as long as the file paths remain valid.
 - The Mentions column must contain semicolon-separated names.
 - Non-name entries can be filtered using `exclude_names.txt`.
 - If the spreadsheet column order changes, the script will need to be updated.
+
+---
+## License
+
+Copyright (c) 2026 Andrew Dixon
+
+Licensed under the GNU Lesser General Public License v2.1. See the LICENSE file at the project root for details.
