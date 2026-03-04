@@ -1,0 +1,11 @@
+[project]
+name = "surveyparser"
+version = "0.1.0"
+description = "Parse and correlate survey data from Excel files."
+readme = "README.md"
+license = { file = "LICENSE.md" }
+requires-python = ">=3.13"
+dependencies = [
+    "et-xmlfile>=2.0.0",
+    "openpyxl>=3.1.5",
+]
